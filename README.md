@@ -21,7 +21,7 @@ Path: "../data/raw/australian_postcodes.xlsx"
 
 Title: Postcode shape file
 URL: https://discover.data.vic.gov.au/dataset/postcode-boundaries-polygon-vicmap-admin/resource/43d2212f-b4d2-4315-8872-4dc6fda56736 
-Path: "../data/raw/
+Path: "../data/raw/VMADMIN
 
 Title: Train station metropolitan
 URL: https://vicroadsopendatastorehouse.vicroads.vic.gov.au/opendata/Public_Transport/Patronage/Annual%20metropolitan%20train%20station%20entries%202020-21.xlsx
